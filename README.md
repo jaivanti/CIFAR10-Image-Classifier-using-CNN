@@ -1,0 +1,2 @@
+# CIFAR10-Image-Classifier-using-CNN
+CNN ie. Convolution Neural Network is one of the types of Neural Networks which is very useful for computational works using multilayer perceptrons(layers). These models work especially great for image processing and classification tasks. Eg. Image classification. The dataset used is CIFAR-10 which includes 10 classes of random pictures with image size of 32×32.
